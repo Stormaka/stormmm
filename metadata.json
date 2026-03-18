@@ -1,0 +1,5 @@
+{
+  "name": "VibePlayer (Android)",
+  "description": "Android Studio project with Java and XML for a background music player.",
+  "requestFramePermissions": []
+}
